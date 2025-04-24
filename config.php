@@ -1,8 +1,8 @@
 <?php
 return array(
-    'base' => '/teacher/ss21/',
-    'assets' => '/teacher/ss21/assets/',
-    'baseURL' => 'http://localhost/teacher/ss21/', 
+    'base' => '/21/',
+    'assets' => '/21/',
+    'baseURL' => 'http://localhost/21/', 
     'db' => array(
         'host'     => 'localhost',
         'name'     => 'ProductDB',
